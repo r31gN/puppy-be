@@ -1,21 +1,14 @@
 {
-  "name": "grasping-react-basics-server",
+  "name": "puppy-be",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "./node_modules/nodemon/bin/nodemon.js app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./node_modules/json-server/bin/index.js puppies.json --port 4000"
   },
   "author": "Vlad Zelinschi",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "morgan": "^1.9.0",
-    "morgan-toolkit": "^1.2.2"
-  },
+  "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
-    "nodemon": "^1.14.11"
+    "json-server": "^0.13.0"
   }
 }
