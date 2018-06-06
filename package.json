@@ -1,0 +1,14 @@
+{
+  "name": "puppy-be",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "./node_modules/json-server/bin/index.js puppies.json --port 4000"
+  },
+  "author": "Vlad Zelinschi",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.13.0"
+  }
+}
