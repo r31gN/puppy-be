@@ -9,7 +9,7 @@ Simple CRUD for puppies built on top of [`json-server`](https://github.com/typic
 
 API will be up & running on `http://localhost:4000`.
 
-## Instructions
+## Instructions (Windows)
 
 1.  Run `npm i -g json-server`
 2.  `cd` in cloned folder
