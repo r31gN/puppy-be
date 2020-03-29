@@ -13,6 +13,7 @@ API will be up & running on `http://localhost:4000`.
 
 1.  Run `npm i -g json-server`
 2.  `cd` in cloned folder
-3.  Run `json-server puppies.json`
+3.  Run `npm i`
+4.  Run `json-server puppies.json`
 
 API will be up & running on `http://localhost:4000`.
